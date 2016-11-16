@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="50" Column="8" />
+      <File FileName="Assets/JSNDrop.cs" Line="95" Column="16" />
+      <File FileName="Assets/Scripts/GameModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DataService.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerDTO.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Person.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Scene.cs" Line="1" Column="1" />
+      <File FileName="Assets/SceneNTO.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneDTO.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RunOnlyOnce.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Persist.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SQLite.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CommandProcessor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextInput.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/GameModel.cs" line="80" column="40" />
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/GameModel.cs" line="64" column="1" />
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/Scripts/DataService.cs" line="254" column="1" />
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/Scripts/DataService.cs" line="249" column="1" />
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/JSNDrop.cs" line="44" column="8" />
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/Scripts/Player.cs" line="75" column="5" />
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/Scripts/Player.cs" line="76" column="1" />
+      <Breakpoint file="/Users/Shared/Unity/TextInput/Assets/JSNDrop.cs" line="88" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets/TextInput.cs" line="12" offsetX="465" offsetY="165" expression="input" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
